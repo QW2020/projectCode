@@ -3,7 +3,7 @@
 __author__ = "HymanQin";
 
 '''
-python base demo
+基础
 '''
 
 import re,math;
@@ -290,7 +290,7 @@ print(min(-21, -11, 0, 22.3));  # min函数，求最小值
 print(" aa bb  cc  ".strip());  # 字符串去前后空格
 print("['6K-8K']".strip('[\'\']'));  # 6K-8K 移除字符串头尾指定的字符
 print(hex(12));  # hex函数，将十进制数转十六进制
-# print(math.sqrt(3));  # 求平方根
+print(math.sqrt(3));  # 求平方根
 print(sum(range(1, 101)));  # 求和
 print(sum(list(range(101))));
 print("cdaDcdsa".capitalize());  # 将字符串第一个字符变成大写，其他小写
