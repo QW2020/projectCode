@@ -57,7 +57,7 @@ def draw_bar_graph():
     # 输出
     plotly.offline.plot(figure, filename="/python视频/temp/bar-graph.html", image="png");
 
-def draw_line_graph():
+def draw_pie_graph():
     # 准备图轨数据
     trace_1 = go.Pie(
         labels = ["产品一","产品二","产品三","产品四","产品五"],
@@ -76,4 +76,4 @@ def draw_line_graph():
 if __name__ == "__main__":
     # draw_line_graph();
     # draw_bar_graph();
-    draw_line_graph();
+    draw_pie_graph();
