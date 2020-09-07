@@ -113,3 +113,6 @@ if __name__ == "__main__":
     # draw_line_graph(graph_data);
     # draw_bar_graph(graph_data);
     # draw_pie_graph(graph_data);
+    result = mysql_utils.execute_all("select * from gzbd_epidemic order by date desc limit 7");
+    for item in result:
+        print(item[2])
