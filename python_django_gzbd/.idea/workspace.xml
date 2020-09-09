@@ -2,183 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50cff152-21cd-41c5-9ada-45dfe1c75c08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python_django_gzbd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/custom.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/custom.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/img.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Chart.js/dist/Chart.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Chart.js/dist/Chart.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Chart.js/dist/Chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Chart.js/dist/Chart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/DateJS/build/date.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/excanvas.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/jquery.colorhelpers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/jquery.flot.canvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/jquery.flot.categories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/jquery.flot.crosshair.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/jquery.flot.errorbars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/jquery.flot.fillbetween.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/jquery.flot.image.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/jquery.flot.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/jquery.flot.navigate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/jquery.flot.pie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/jquery.flot.resize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/jquery.flot.selection.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/jquery.flot.stack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/jquery.flot.symbol.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/jquery.flot.threshold.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/jquery.flot.time.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/lib/globalize.culture.en-US.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/lib/globalize.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/lib/jquery.event.drag.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/Flot/lib/jquery.mousewheel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/bootbox/bootbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/bootstrap-daterangepicker/daterangepicker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/bootstrap-daterangepicker/daterangepicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/bootstrap-progressbar/bootstrap-progressbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/bootstrap-progressbar/bootstrap-progressbar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-bs/css/dataTables.bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-bs/css/dataTables.bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-bs/js/dataTables.bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-bs/js/dataTables.bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-buttons-bs/css/buttons.bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-buttons-bs/css/buttons.bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-buttons-bs/js/buttons.bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-buttons-bs/js/buttons.bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-buttons/js/buttons.colVis.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-buttons/js/buttons.colVis.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-buttons/js/buttons.flash.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-buttons/js/buttons.flash.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-buttons/js/buttons.html5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-buttons/js/buttons.html5.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-buttons/js/buttons.print.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-buttons/js/buttons.print.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-buttons/js/dataTables.buttons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-buttons/js/dataTables.buttons.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-fixedheader-bs/css/fixedHeader.bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-fixedheader-bs/css/fixedHeader.bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-fixedheader/js/dataTables.fixedHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-fixedheader/js/dataTables.fixedHeader.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-keytable/js/dataTables.keyTable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-keytable/js/dataTables.keyTable.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-responsive-bs/css/responsive.bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-responsive-bs/css/responsive.bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-responsive-bs/js/responsive.bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-responsive/js/dataTables.responsive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-responsive/js/dataTables.responsive.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-scroller-bs/css/scroller.bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-scroller-bs/css/scroller.bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-scroller/js/dataTables.scroller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net-scroller/js/dataTables.scroller.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net/js/jquery.dataTables.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/datatables.net/js/jquery.dataTables.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/fastclick/lib/fastclick.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/fileinput/fileinput.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/fileinput/fileinput.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/flot-spline/.bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/flot-spline/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/flot-spline/bower.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/flot-spline/js/jquery.flot.spline.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/flot-spline/js/jquery.flot.spline.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/flot-spline/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/flot.curvedlines/curvedLines.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/flot.orderbars/js/jquery.flot.orderBars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/gauge.js/dist/gauge.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/gauge.js/dist/gauge.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/gauge.js/dist/gauge.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/iCheck/icheck.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/iCheck/icheck.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/iCheck/skins/flat/green.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/iCheck/skins/flat/green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/iCheck/skins/flat/green@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/jquery.vmap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/jquery.vmap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/jqvmap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/jqvmap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/continents/jquery.vmap.africa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/continents/jquery.vmap.asia.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/continents/jquery.vmap.australia.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/continents/jquery.vmap.europe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/continents/jquery.vmap.north-america.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/continents/jquery.vmap.south-america.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/jquery.vmap.algeria.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/jquery.vmap.argentina.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/jquery.vmap.brazil.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/jquery.vmap.canada.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/jquery.vmap.europe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/jquery.vmap.france.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/jquery.vmap.germany.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/jquery.vmap.greece.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/jquery.vmap.iran.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/jquery.vmap.iraq.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/jquery.vmap.russia.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/jquery.vmap.tunisia.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/jquery.vmap.turkey.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/jquery.vmap.usa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/dist/maps/jquery.vmap.world.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/examples/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/examples/images/flag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/examples/images/globe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/examples/images/marker/black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/examples/images/marker/blue.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/examples/images/marker/green.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/examples/images/marker/grey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/examples/images/marker/orange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/examples/images/marker/purple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/examples/images/marker/red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/examples/images/marker/white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/examples/images/marker/yellow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/examples/images/thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/examples/images/tip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/jqvmap/examples/js/jquery.vmap.sampledata.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/moment/min/moment.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/morris.js/morris.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/morris.js/morris.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/morris.js/morris.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/nprogress/nprogress.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/nprogress/nprogress.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/raphael/raphael.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/raphael/raphael.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/raphael/raphael.no-deps.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/raphael/raphael.no-deps.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/raphael/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/plugin/skycons/skycons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/account/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/account/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/common/dashBoard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/fragments/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/fragments/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/fragments/sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/indexSimple.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python_spider/gzbd/gzbd_graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python_spider/gzbd/gzbd_graph.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app_gzbd/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app_gzbd/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/result.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/result.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_gzbd/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_gzbd/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_django_gzbd/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_django_gzbd/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/account/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/account/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/account/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/account/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/common/dashBoard.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/common/dashBoard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/fragments/sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/fragments/sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_spider/gzbd/gzbd_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python_spider/gzbd/gzbd_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_spider/gzbd/gzbd_storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python_spider/gzbd/gzbd_storage.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -190,44 +24,7 @@
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/templates/account/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/account/register.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/common/dashBoard.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18980">
-              <caret line="730" column="23" selection-start-line="730" selection-start-column="23" selection-end-line="730" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/test/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -235,6 +32,13 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>x_panel</find>
+      <find>chart_plot_01</find>
+      <find>arr_data1</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -248,25 +52,28 @@
         <option value="$PROJECT_DIR$/templates/hello_world.html" />
         <option value="$PROJECT_DIR$/templates/fragments/footer.html" />
         <option value="$PROJECT_DIR$/templates/fragments/sideBar.html" />
-        <option value="$PROJECT_DIR$/python_django_gzbd/settings.py" />
         <option value="$PROJECT_DIR$/templates/indexSimple.html" />
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/templates/fragments/header.html" />
         <option value="$PROJECT_DIR$/templates/test/hello_world.html" />
-        <option value="$PROJECT_DIR$/templates/fragments/sidebar.html" />
-        <option value="$PROJECT_DIR$/python_django_gzbd/urls.py" />
-        <option value="$PROJECT_DIR$/app_gzbd/views.py" />
         <option value="$PROJECT_DIR$/templates/test/index.html" />
-        <option value="$PROJECT_DIR$/templates/common/dashBoard.html" />
-        <option value="$PROJECT_DIR$/templates/account/login.html" />
+        <option value="$PROJECT_DIR$/common/result.py" />
+        <option value="$PROJECT_DIR$/python_django_gzbd/urls.py" />
         <option value="$PROJECT_DIR$/templates/account/register.html" />
+        <option value="$PROJECT_DIR$/python_django_gzbd/settings.py" />
+        <option value="$PROJECT_DIR$/app_gzbd/views.py" />
+        <option value="$PROJECT_DIR$/templates/account/login.html" />
+        <option value="$PROJECT_DIR$/templates/fragments/sidebar.html" />
+        <option value="$PROJECT_DIR$/static/js/custom.js" />
+        <option value="$PROJECT_DIR$/templates/common/dashBoard.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="671" />
-    <option name="width" value="687" />
-    <option name="height" value="725" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="687" />
+    <option name="y" value="14" />
+    <option name="width" value="685" />
+    <option name="height" value="711" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -296,6 +103,17 @@
             <path>
               <item name="python_django_gzbd" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_django_gzbd" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_django_gzbd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_django_gzbd" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_django_gzbd" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_django_gzbd" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -314,7 +132,7 @@
               <item name="python_django_gzbd" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_django_gzbd" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="fragments" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -326,20 +144,21 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/account" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_spider" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JAVA\projectCode\python_django_gzbd\templates\test" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JAVA\projectCode\python_django_gzbd\resources" />
       <recent name="E:\JAVA\projectCode\python_django_gzbd\templates\account" />
       <recent name="E:\JAVA\projectCode\python_django_gzbd\templates\common" />
       <recent name="E:\JAVA\projectCode\python_django_gzbd\templates\fragments" />
       <recent name="E:\JAVA\projectCode\python_django_gzbd\static" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\JAVA\projectCode\python_django_gzbd\templates\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -390,19 +209,20 @@
       <option name="presentableId" value="Default" />
       <updated>1599448355854</updated>
       <workItem from="1599448358999" duration="11421000" />
-      <workItem from="1599465933505" duration="17044000" />
+      <workItem from="1599465933505" duration="17340000" />
+      <workItem from="1599526308590" duration="28257000" />
+      <workItem from="1599620818178" duration="9982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28465000" />
+    <option name="totallyTimeSpent" value="67000000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="687" y="14" width="685" height="711" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19969743" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2928" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -415,7 +235,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33502537" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -424,8 +244,8 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32980332" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1860817" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24962178" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -438,7 +258,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33502537" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3295082" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -449,6 +269,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/templates/common/dashBoard.html</url>
+          <line>182</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app_gzbd/admin.py">
@@ -461,13 +293,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app_gzbd/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -487,55 +312,14 @@
     <entry file="file://$PROJECT_DIR$/app_gzbd/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/python_django_gzbd/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_django_gzbd/asgi.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO072370A9/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python_django_gzbd/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="126" column="13" selection-start-line="126" selection-start-column="13" selection-end-line="126" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/js/custom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/7zO072370A9/views.py" />
     <entry file="file://$PROJECT_DIR$/templates/fragments/footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
           <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/indexSimple.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -546,55 +330,120 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/fragments/sidebar.html">
+    <entry file="file://$PROJECT_DIR$/templates/test/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        <state relative-caret-position="26">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_django_gzbd/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/result.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_gzbd/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/python_测试.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1080" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="31" column="40" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/indexSimple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python_django_gzbd/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="50" column="1" lean-forward="true" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/account/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="83" column="18" lean-forward="true" selection-start-line="83" selection-start-column="18" selection-end-line="83" selection-end-column="18" />
+          <folding>
+            <element signature="e#3501#5360#0#HTML" />
+            <element signature="e#5389#5606#0#HTML" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/python_django_gzbd/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        <state relative-caret-position="352">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="24" />
           <folding>
             <element signature="e#178#210#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app_gzbd/views.py">
+    <entry file="file://$PROJECT_DIR$/templates/fragments/sidebar.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="57" column="26" lean-forward="true" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/test/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/common/dashBoard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18980">
-          <caret line="730" column="23" selection-start-line="730" selection-start-column="23" selection-end-line="730" selection-end-column="23" />
+        <state relative-caret-position="728">
+          <caret line="28" column="47" selection-start-line="28" selection-start-column="47" selection-end-line="28" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/account/register.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="32" lean-forward="true" selection-start-column="32" selection-end-column="32" />
+        <state relative-caret-position="430">
+          <caret line="70" column="9" lean-forward="true" selection-start-line="40" selection-end-line="70" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/account/login.html">
+    <entry file="file://$PROJECT_DIR$/templates/common/dashBoard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        <state relative-caret-position="546">
+          <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_gzbd/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="173" column="27" selection-start-line="173" selection-start-column="18" selection-end-line="173" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="360" column="6" lean-forward="true" selection-start-line="342" selection-start-column="3" selection-end-line="360" selection-end-column="6" />
         </state>
       </provider>
     </entry>

@@ -15,8 +15,8 @@ def storage_mysql():
     for item in gzbd_all_data:
         # build sql 语句：根据时间查询、插入语句
         epidemic_date = item["日期"];
-        query_sql = "select * from  gzbd_epidemic where date = '%s'" %(epidemic_date);
-        insert_sql = "insert into gzbd_epidemic (region, date, diagnosis, overseas_import, cure" \
+        query_sql = "select * from  app_gzbd_epidemic where date = '%s'" %(epidemic_date);
+        insert_sql = "insert into app_gzbd_epidemic (region, date, diagnosis, overseas_import, cure" \
                      ",death, therapy, observation) values ('%s' ,'%s' ,%s ,%s ,%s ,%s ,%s ,%s)"%\
                      (item["地区"],item["日期"],item.get("确诊数",None),item.get("境外输入数",None),
                       item.get("治愈数",None),item.get("死亡数",None),item.get("隔离数",None),item.get("观察数",None));
@@ -51,6 +51,6 @@ def storage_excel():
     excel_utils.create_excel(header, body, file_path);
 
 if __name__ == "__main__":
-    # storage_mysql();
+    storage_mysql();
     # storage_excel();
-    pass;
+    # pass;

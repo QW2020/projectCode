@@ -15,13 +15,20 @@ from app_gzbd import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path(r'helloWorld/',views.hello_world),
-    # re_path(r'^test/index$', views.test_index),
     # url(r'^test/index$', views.test_index),
     path('test/index/', views.test_index_page),
-    # re_path(r'^test/index$',views.test_index_page),
     path(r'index/',views.index),
     path(r'indexSimple/',views.index_simple),
+
+    # --- user ---
     path(r'login/',views.login),
     path(r'register/',views.register),
+    re_path(r'^user/(\d+)$',views.user),
+    re_path(r'^users$',views.users),
+
+    # --- gzbd ---
+    path(r'gzbd/',views.gzbd),
+
+    # --- common ---
     path(r'dashBoardPage/',views.dashboard_page),
 ]
